@@ -16,7 +16,8 @@ int main()
     printf("\nGeben Sie eine Zahl ein: ");
     scanf("%d", &zahl2);
 
-
+    // Ausgabe
+    
     printf("\n\nDie größere Zahl lautet %d\n\n", gebeGroessereZahl(zahl1, zahl2));
 
     return 0;
